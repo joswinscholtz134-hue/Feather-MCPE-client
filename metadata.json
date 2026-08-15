@@ -1,0 +1,7 @@
+{
+  "name": "Feather MCPE Client",
+  "description": "Native Bedrock & MCPE companion client featuring FPS boost, HUD overlays, mod manager, server ping tester, and add-on manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
